@@ -1,0 +1,2 @@
+# Algorithm
+Algorithm class implementation
