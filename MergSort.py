@@ -25,7 +25,6 @@ def merge(left, right):
             index1 += 1
     return temp
 
-
 l = [38, 27, 43, 3, 9, 82, 10]
 result = mergesort(l)
 print(result)
